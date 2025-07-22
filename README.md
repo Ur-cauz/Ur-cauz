@@ -84,10 +84,6 @@
 ---
 
 ## 💰 Support Me
-<p align="center">
-  <a href="https://paypal.me/Urcauz?country.x=IN&locale.x=en_GB">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
-  </a>
-</p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L41DC4WE)
 
 <!-- Proudly crafted with ✨ GPRM - https://gprm.itsvg.in -->
