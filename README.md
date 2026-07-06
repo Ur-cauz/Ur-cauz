@@ -1,11 +1,10 @@
-<p align="center">
-  <img src="https://media.tenor.com/jE7XZ1Uqjq4AAAAd/night-city.gif" width="100%" style="border-radius: 18px;"/>
-</p>
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hey%20there,%20I'm%20cauz&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%20%7C%20%20%7C%20%2&descAlignY=58&descSize=18&descColor=aaaacc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hey%20there,%20I'm%20cauz&fontSize=48&fontColor=ffff&animation=fadeIn&fontAlignY=38&desc=%20%7C%20%20%7C%20%2&descAlignY=58&descSize=18&descColor=ffff" />
 </p>
 
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Full-stack+developer+%F0%9F%9A%80;Building+tools+that+feel+alive+%E2%9C%A8;Next.js+%7C+TypeScript+%7C+GraphQL+enthusiast;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </p>
@@ -14,19 +13,19 @@
 
 ## 🧠 About Me
 
-Hey, I'm **cauz**. I build things for the web, chase ideas that keep me awake at night, and try to make everyday tools feel a little more alive.
+Hey, I'm **cauz**. I build things.
 
 **Right now I'm:**
 
-- 🔨 Building a productivity app that might escape its cage someday
-- 🧩 Exploring browser extensions and lightweight TypeScript tools
-- 🎨 Leveling up my visual sense and UI instincts
-- 📚 Going deeper into **Next.js**, **GraphQL**, and full-stack craft
+- 🔨 Workin on Client Projects
+- 🧩 Makin Automation Scripts
+- 🎨 Learning 3D Model Designing
+- 📚 Making Custom PCBs 
 - 💬 Always down to talk code, side projects, or automation tricks
 
 > *"The best tools disappear — they just get out of your way."*
 
-📫 Something sparked a thought? **[Let's talk](https://github.com/Ur-cauz)**
+📫 Something to say? **Message me on DC : urcauz**
 
 ---
 
@@ -38,11 +37,13 @@ Hey, I'm **cauz**. I build things for the web, chase ideas that keep me awake at
   </a>
 </p>
 
-| Project | Status | Stack |
-|---------|--------|-------|
-| Productivity App | 🟡 In progress | Next.js · TypeScript · Firebase |
-| Browser Extension | 🔵 Exploring | TypeScript · Web APIs |
-| Feild Tracking App | 🟣 In Progress | Flutter · Firebase |
+| Project | Status | Stack | Preview |
+|---------|--------|-------|-------|
+| Student Helper | 🟡 In progress | Flutter · Firebase | **[Pending]**|
+| CJAM Firmware | 🔵 Almost Done | c++  | **[Pending]**|
+| Web Scraper  | 🟣 Learning | Javascript · APIS | **[Pending]** |
+| Custom PCB Board  | 🟢 Completed | EasyEDA · KiCAD | **[Github-REPO](https://github.com/Ur-cauz/CJAM/blob/main/Images/pcb-front.png)** |
+| 3D Model for PCB  | 🟢 Completed | Blender · EasyEDA | **[Github-REPO](https://github.com/Ur-cauz/CJAM/blob/main/Images/case-render.png)** |
 
 ---
 
@@ -85,11 +86,6 @@ Hey, I'm **cauz**. I build things for the web, chase ideas that keep me awake at
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ur-cauz&theme=tokyonight&no-frame=true&margin-w=8&column=7" />
-</p>
 
 ---
 
