@@ -1,12 +1,12 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hey%20there,%20I'm%20cauz&fontSize=48&fontColor=ffff&animation=fadeIn&fontAlignY=38&desc=%20%7C%20%20%7C%20%2&descAlignY=58&descSize=18&descColor=ffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,21,25&height=200&section=header&text=Hey%20there,%20I'm%20cauz&fontSize=48&fontColor=ffff&animation=fadeIn&fontAlignY=38&desc=%20%20%20%20%2&descAlignY=58&descSize=18&descColor=ffff"/>
 </p>
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Full-stack+developer+%F0%9F%9A%80;Building+tools+that+feel+alive+%E2%9C%A8;Next.js+%7C+TypeScript+%7C+GraphQL+enthusiast;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=250&color=00000&center=true&vCenter=true&width=600&lines=Full-stack+developer;Building+tools+that+feel+alive+;Next.js+;PCB+Designing;+GraphQL;3D+Modeling;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </p>
 
 ---
