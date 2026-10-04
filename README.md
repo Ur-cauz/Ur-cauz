@@ -63,15 +63,7 @@ Hey, I'm **cauz**. I build things.
 
 ---
 
-## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind&perline=6" /><br/>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,mysql,firebase&perline=6" /><br/>
-  <img src="https://skillicons.dev/icons?i=vite,figma,git,github,vscode,linux&perline=6" />
-</p>
-
----
 
 
 ### 🐍 Contribution Snake
@@ -89,27 +81,7 @@ Hey, I'm **cauz**. I build things.
 
 ---
 
-## ✍️ Quote of the Moment
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
 
 
-## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ur-cauz&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=ffffff&area=true&hide_border=true&area_color=7F3FBF" />
-</p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ur-cauz&label=Profile+Views&color=7F3FBF&style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Ur-cauz?style=for-the-badge&color=7F3FBF&labelColor=1a1a2e&label=Followers"/>
-</p>
-
----
