@@ -61,10 +61,9 @@ Hey, I'm **cauz**. I build things.
   </a>
 </p>
 
+
+
 ---
-
-
-
 
 ### 🐍 Contribution Snake
 
@@ -75,9 +74,6 @@ Hey, I'm **cauz**. I build things.
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
-
----
-
 
 ---
 
