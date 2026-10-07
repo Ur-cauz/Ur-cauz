@@ -39,7 +39,7 @@ Hey, I'm **cauz**. I build things.
 
 | Project | Status | Stack | Preview |
 |---------|--------|-------|-------|
-| Student Helper | 🟡 In progress | Flutter · Firebase | **[Pending]**|
+| Rispense | 🟡 In progress | React · Firebase | **[MVP](https://rispense-rust.vercel.app/)**|
 | CJAM Firmware | 🔵 Almost Done | c++  | **[Pending]**|
 | Web Scraper  | 🟣 Learning | Javascript · APIS | **[Pending]** |
 | Custom PCB Board  | 🟢 Completed | EasyEDA · KiCAD | **[Github-REPO](https://github.com/Ur-cauz/CJAM/blob/main/Images/pcb-front.png)** |
