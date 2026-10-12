@@ -40,7 +40,7 @@ Hey, I'm **cauz**. I build things.
 | Project | Status | Stack | Preview |
 |---------|--------|-------|-------|
 | Rispense Android | 🟡 In progress | React · Firebase | **[MVP - Made - Working on V2]**|
-| Rispense Waitlist | 🟢 Completed | React · Firebase | **[MVP](https://rispense-rust.vercel.app/)** |
+| Rispense Waitlist | 🟢 Completed | React · Firebase | **[Waitlist Link Here](https://rispense-rust.vercel.app/)** |
 | CJAM Firmware | 🔵 Almost Done | c++  | **[Pending]**|
 | Web Scraper  | 🟣 Learning | Javascript · APIS | **[Pending]** |
 | Custom PCB Board  | 🟢 Completed | EasyEDA · KiCAD | **[Github-REPO](https://github.com/Ur-cauz/CJAM/blob/main/Images/pcb-front.png)** |
