@@ -37,7 +37,7 @@ Hey, I'm **cauz**. I build things — from software and automation to hardware e
 | Project | Status | Stack | Links |
 |---|---|---|---|
 | **Rispense Android** | 🟡 In development | React Native · Expo · Firebase | [Repository](https://github.com/Ur-cauz/Rispense-Android) |
-| **Rispense Waitlist** | 🟢 Live | React · Firebase | [Visit website](https://rispense-rust.vercel.app/) |
+| **Rispense Waitlist** | 🟢 Live | React · Firebase | [Visit website](https://rispense.app/) |
 | **CJAM** | 🔵 Hardware project | ESP32 · C++ · PCB Design | [Repository](https://github.com/Ur-cauz/CJAM) |
 | **Custom PCB** | 🟢 Completed | EasyEDA · KiCad | [PCB preview](https://github.com/Ur-cauz/CJAM/blob/main/Images/pcb-front.png) |
 | **PCB 3D Model** | 🟢 Completed | Blender · EasyEDA | [View render](https://github.com/Ur-cauz/CJAM/blob/main/Images/case-render.png) |
